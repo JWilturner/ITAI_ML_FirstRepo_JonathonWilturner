@@ -2,3 +2,4 @@ This is my first GitHub file for the Classic Machine Learning course.
 Hello from Johna Matthews
 Hello from Jonathon Wilturner
 Hello from Arinze (P.S I am only adding this line because Jonathan asked me to. I already created this txt and I have been updated as a contributor)
+Hello from Hamza Ajmal.
